@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4577" started-at="2022-04-30T18:34:05Z" finished-at="2022-04-30T18:34:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4577" started-at="2022-04-30T18:34:05Z" finished-at="2022-04-30T18:34:09Z">
+      <class name="com.testin.Devqagetmethod">
+        <test-method status="PASS" signature="url()[pri:0, instance:com.testin.Devqagetmethod@7ac7a4e4]" name="url" is-config="true" duration-ms="763" started-at="2022-05-01T00:04:05Z" finished-at="2022-05-01T00:04:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method status="PASS" signature="getRequest()[pri:0, instance:com.testin.Devqagetmethod@7ac7a4e4]" name="getRequest" duration-ms="3775" started-at="2022-05-01T00:04:06Z" finished-at="2022-05-01T00:04:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequest -->
+      </class> <!-- com.testin.Devqagetmethod -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
